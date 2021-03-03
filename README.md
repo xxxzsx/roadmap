@@ -1,13 +1,12 @@
-Карта развития профессионального разработчика
-=========
+# Карта развития профессионального разработчика
 
 - [Инструменты разработчика](#инструменты-разработчика)
 - [Начинающему разработчику](#начинающему-разработчику)
 - [Вёрстка](#вёрстка)
   - [Инструменты верстальщика](#инструменты-верстальщика)
-  - [Классные сайты, на которые можно равняться](#классные-сайты-на-которые-можно-равняться)
+  - [Классные сайты примеры](#классные-сайты-примеры)
 - [JavaScript](#javascript)
-  - [Vue](#vue)
+  - [Vue.js](#vue.js)
   - [Webpack](#webpack)
   - [Node](#node)
   - [Express](#express)
@@ -32,17 +31,11 @@
 - [Продвижение](#продвижение)
 - [Финансы](#финансы)
 
+<br>
 
+# Инструменты разработчика
 
-
-
-
-
-
-
-## Инструменты разработчика
-
-**Программы**
+## Программы
 
 WebStorm или другие продукты JetBrains  
 [jetbrains-agent-latest.zip — OneDrive](https://onedrive.live.com/?authkey=%21AMIXXkzI4CJfIm8&cid=1CAC1C9786CFFED7&id=1CAC1C9786CFFED7%21892&parId=1CAC1C9786CFFED7%21891&action=locate)  
@@ -51,7 +44,7 @@ WebStorm или другие продукты JetBrains
 [Эффективная работа с кодом в IntelliJ IDEA, или Знаете ли вы свою IDE как знаем её мы? - YouTube](https://www.youtube.com/watch?v=tpv5n2jWHlw)
 ...
 
-**Онлайн-песочницы**
+## Онлайн-песочницы
 
 [JSBin](http://jsbin.com/)  
 [jsconsole](https://jsconsole.com/)  
@@ -61,7 +54,7 @@ WebStorm или другие продукты JetBrains
 [regex tester](https://regex101.com/)  
 [SQL Fiddle](http://sqlfiddle.com/)
 
-**Разные сервисы**
+## Разные сервисы
 
 [GitHub](https://github.com/xxxzsx) — вы сейчас здесь  
 [Codewars](https://www.codewars.com/dashboard)  
@@ -87,10 +80,10 @@ WebStorm или другие продукты JetBrains
 [Cache View](https://cachedviews.com/)  
 [Интернетометр](https://yandex.ru/internet/)
 
-**Файлообменники**
+## Файлообменники
 
 [Habrastorage](https://web.habrastorage.org/ru)  
-[FEX.NET](http://fex.net/#!)
+[FEX.NET](http://fex.net/#!)  
 Google Drive  
 Яндекс Диск  
 Mega  
@@ -102,15 +95,15 @@ rsload
 [TParser](https://tparser.me/)  
 [Seedr](https://www.seedr.cc/)
 
-**Тайм-менеджмент и заметки**
+## Тайм-менеджмент и заметки
 
 [Todoist](https://ru.todoist.com/app?lang=ru#start)  
 [Google Keep](https://keep.google.com/)  
 [Notion](https://www.notion.so/)
 
+<br>
 
-
-## Начинающему разработчику
+# Начинающему разработчику
 
 [Map of Computer Science - YouTube](https://www.youtube.com/watch?v=SzJ46YA_RaA)  
 [RoadMap для начинающего разработчика - YouTube](https://www.youtube.com/watch?v=ft8XVaDaIhE)  
@@ -131,9 +124,9 @@ rsload
 [Чуть не уволили по статье… или развитие разработчика | Habr.com | Яндекс Дзен](https://zen.yandex.ru/media/habr/chut-ne-uvolili-po-state-na-habre-5e1ed647b477bf00adcddabc)  
 [IT-образование в России. Взгляд изнутри и советы поступающим / Песочница / Хабрахабр](https://habrahabr.ru/sandbox/107318/)
 
+<br>
 
-
-## Вёрстка
+# Вёрстка
 
 Основы HTML5  
 Основы CSS3  
@@ -160,15 +153,13 @@ rsload
 [front-end-interview-handbook/html-questions.md at master · yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Russian/questions/html-questions.md)  
 [front-end-interview-handbook/css-questions.md at master · yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/css-questions.md)
 
+## Инструменты верстальщика
 
-
-### Инструменты верстальщика
-
-**Программы**
+### Программы
 
 Zeplin
 
-**Онлайн-сервисы анализа страниц**
+### Онлайн-сервисы анализа страниц
 
 [robo-t | Чеклист верстки](http://robo-t.ru/html-checklist.html)  
 [GTmetrix Website Speed](https://gtmetrix.com/)  
@@ -179,13 +170,12 @@ Zeplin
 [DNS Lookup](https://network-tools.com/dns-records/)  
 [Checkbot](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)
 
-**Расширения для удобной работы**
+### Расширения для удобной работы
 
 ...
 
 
-
-### Классные сайты, на которые можно равняться
+## Классные сайты примеры
 
 [«Мастерчейн»](http://masterchain.rbc.ru/)  
 [SDT Group](https://sdt.group/)  
@@ -230,11 +220,11 @@ Zeplin
 [Инвестиционная компания - ITI Capital](https://iticapital.ru/)  
 [WhatRuns — Discover What Runs a Website](https://www.whatruns.com/?source=plugin)
 
+<br>
 
+# JavaScript
 
-## JavaScript
-
-learn.javascript.ru  
+[learn.javascript.ru](https://learn.javascript.ru)  
 [Javascript-джедай](https://www.youtube.com/watch?v=H6G63NKRSi8&list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem)  
 [Понимаем замыкания в JavaScript. Раз и навсегда - Stas Bagretsov - Medium](https://medium.com/@stasonmars/%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%B5%D0%BC-%D0%B7%D0%B0%D0%BC%D1%8B%D0%BA%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B2-javascript-%D1%80%D0%B0%D0%B7-%D0%B8-%D0%BD%D0%B0%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0-c211805b6898)  
 [Var, let или const? Проблемы областей видимости переменных](https://medium.com/webbdev/var-let-%D0%B8%D0%BB%D0%B8-const-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D0%B9-%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-d5c2e04bf467)  
@@ -274,9 +264,7 @@ learn.javascript.ru
 [front-end-interview-handbook/javascript-questions.md at master · yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Russian/questions/javascript-questions.md)  
 [Документация Typescript на русском. Перевод официального руководства. Учебник для начинающих.](http://typescript-lang.ru/docs/)
 
-
-
-### Vue
+## Vue.js
 
 [Vue.js с нуля (часть 1) - Hello World - YouTube](https://www.youtube.com/watch?v=k3yRfEw1pYk&list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7)  
 [Vue JS 2 #0 Введение в курс (Introduction) - YouTube](https://www.youtube.com/watch?v=PCOP3uC_VwY&list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB)  
@@ -300,9 +288,7 @@ learn.javascript.ru
 [API — Vue.js](https://ru.vuejs.org/v2/api/index.html)  
 [Урок 2. Fullstack Vue. Настройка Vuex и socket.io - YouTube](https://www.youtube.com/watch?v=B08o3-UOjYA&list=PLqKQF2ojwm3ktTvzYonkjMp7khGwvdp-n&index=3)
 
-
-
-### Webpack
+## Webpack
 
 [Клиентская оптимизация](https://ruhighload.com/%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)  
 [Web Performance 101: JS, CSS, HTTP, images & fonts | PerfPerfPerf](https://3perf.com/talks/web-perf-101/#javascript-header)  
@@ -313,9 +299,7 @@ learn.javascript.ru
 [Webpack 2 — #1 — Знакомство - YouTube](https://www.youtube.com/watch?v=X6qde-zvw00&t=0s)  
 [Собираем бандл мечты с помощью Webpack / Максим Соснов (N1.RU) - YouTube](https://www.youtube.com/watch?v=4ClK_0fxsVM)
 
-
-
-### Node
+## Node
 
 [Введение в Node.JS, об этом скринкасте - YouTube](https://www.youtube.com/watch?v=ILpS4Fq3lmw&list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx)  
 [Руководство по Node.js](https://metanit.com/web/nodejs/)  
@@ -337,9 +321,7 @@ learn.javascript.ru
 [Егор Малькевич — (--Воруем--) Добываем данные из интернета - YouTube](https://www.youtube.com/watch?v=Nn75sRAOlIY)  
 [Криптокошелечек своими руками / Егор Малькевич (SolidBridge) - YouTube](https://www.youtube.com/watch?v=HPd7MlvGlyo)
 
-
-
-### Express
+## Express
 
 [Начало работы с Express | Руководство по Node.js (Примеры)](https://xsltdev.ru/nodejs/guide/express-intro/)  
 [Web-разработка на node.js и express. Изучаем node.js на практике / Хабрахабр](https://habrahabr.ru/post/146983/)  
@@ -355,9 +337,7 @@ learn.javascript.ru
 [Добротный риалтайм на React и Socket.io / Хабр](https://habr.com/ru/company/ruvds/blog/333618/)  
 [Многопользовательский чат с использованием WebRTC / Хабр](https://habr.com/ru/post/255833/)
 
-
-
-### Koa
+## Koa
 
 [Koa - next generation web framework for node.js](https://koajs.com/)  
 [Написание API на Koa - YouTube](https://www.youtube.com/watch?v=_ndbCZ9Ni6E&t=0s)  
@@ -366,9 +346,9 @@ learn.javascript.ru
 [koa/docs/api at master · koajs/koa](https://github.com/koajs/koa/tree/master/docs/api)  
 [koajs/kick-off-koa: An intro to koa via a set of self-guided workshops](https://github.com/koajs/kick-off-koa)
 
+<br>
 
-
-## Python
+# Python
 
 [Python/Учебник Python 3.1 — Викиучебник](https://ru.wikibooks.org/wiki/Python/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA_Python_3.1)  
 [Обширный обзор собеседований по Python. Советы и подсказки / Хабр](https://habr.com/ru/post/439576/)  
@@ -385,24 +365,24 @@ learn.javascript.ru
 [aiohttp medium OR habr - Поиск в Google](https://www.google.com/search?q=aiohttp+medium+OR+habr&oq=aiohttp+medium+OR+habr&aqs=chrome..69i57j33.9474j0j4&sourceid=chrome&ie=UTF-8)  
 [Прикладной Python (осень 2018) - YouTube](https://www.youtube.com/watch?v=oLN3-1UX0-A&list=PLrCZzMib1e9qM62lMXC90SiFy7-1-kAPJ)
 
-**Книги**
+## Книги
 
 [Книга "Легкий способ выучить Python 3 еще глубже" — купить в интернет-магазине OZON с быстрой доставкой](https://www.ozon.ru/context/detail/id/167057899/)  
 [Книга "Вероятностное программирование на Python. Байесовский вывод и алгоритмы" — купить в интернет-магазине OZON с быстрой доставкой](https://www.ozon.ru/context/detail/id/152962750/)  
 [Книга "Python for Finance Cookbook" — купить в интернет-магазине OZON с быстрой доставкой](https://www.ozon.ru/context/detail/id/167603170/)  
 [Книга "Разработка веб-приложений с использованием Flask на языке Python" — купить в интернет-магазине OZON с быстрой доставкой](https://www.ozon.ru/context/detail/id/135559040/)
 
+<br>
 
-
-## C/C++
+# C/C++
 
 Основы C  
 Основы C++  
 [Углубленное программирование на C/C++ | Технострим - YouTube](https://www.youtube.com/watch?v=YXbrMny86U0&list=PLrCZzMib1e9qjGLjg83bCksf3N7FIy7jg)
 
+<br>
 
-
-## Базы данных
+# Базы данных
 
 [Основы SQL - YouTube](https://www.youtube.com/watch?v=P2Eaf9M4gOU&list=PLY4rE9dstrJwFmPYd03vZU90-TvXEpVzD)  
 [Использование баз данных. | Технострим - YouTube](https://www.youtube.com/watch?v=dbUwdDP6R7o&list=PLrCZzMib1e9reQb3ZXLWVaEu2CM3R54ho)  
@@ -411,9 +391,9 @@ learn.javascript.ru
 [Курс молодого бойца PostgreSQL / Хабр](https://habr.com/ru/post/340460/)  
 [Как думать на SQL? / Хабр](https://habr.com/ru/post/305926/)
 
+<br>
 
-
-## Проектирование
+# Проектирование
 
 [Ты должен писать плохой код - YouTube](https://www.youtube.com/watch?v=-R455cuPsV4)  
 [Как писать гребаный код - YouTube](https://www.youtube.com/watch?v=HnTnwTPZp-o)  
@@ -422,14 +402,14 @@ learn.javascript.ru
 [Рефакторинг: говнокод → конфетка](https://refactoring.guru/ru/refactoring)  
 [Парадигма программирования — Википедия](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%B8%D0%B3%D0%BC%D0%B0_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F#%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
 
-**Функциональное программирование**
+## Функциональное программирование
 
 [Основные принципы программирования: функциональное программирование](https://tproger.ru/translations/functional-programming-concepts/)  
 [Функциональное программирование для всех / Хабр](https://habr.com/ru/post/142351/)  
 [Функциональное программирование в JavaScript с практическими примерами / Блог компании Mail.ru Group / Хабр](https://habr.com/ru/company/mailru/blog/327522/)  
 [Разбираемся с монадами с помощью Javascript / Хабр](https://habr.com/ru/post/238171/)
 
-**Объектно-ориентированное программирование**
+## Объектно-ориентированное программирование
 
 [САМЫЕ ЧАСТЫЕ ЗАБЛУЖДЕНИЯ ООП - YouTube](https://www.youtube.com/watch?v=BHNt1fcg8iw)  
 [Инкапсуляция - YouTube](https://www.youtube.com/watch?v=yNUJ3vAeyJQ)  
@@ -452,16 +432,16 @@ learn.javascript.ru
 [Паттерны ООП простыми словами: структурирующие паттерны](https://proglib.io/p/learn-oop-patterns-2/)  
 [Хитрости объектно-ориентированного программирования. Часть 1: Искусство разделения команд и запросов | Nuances of programming | Яндекс Дзен](https://zen.yandex.ru/media/nuancesprog/hitrosti-obektnoorientirovannogo-programmirovaniia-chast-1-iskusstvo-razdeleniia-komand-i-zaprosov-5e20e75d3f548700aed1f2e5)
 
-**Книги**
+## Книги
 
 [Thinking Recursively: Eric S. Roberts: 9780471816522: Amazon.com: Books](https://www.amazon.com/Thinking-Recursively-Eric-S-Roberts/dp/0471816523)  
 [Книга "Рефакторинг. Улучшение существующего кода" — купить в интернет-магазине OZON с быстрой доставкой](https://www.ozon.ru/context/detail/id/1308678/)  
 [Книга "Шаблоны корпоративных приложений " — купить в интернет-магазине OZON с быстрой доставкой](https://www.ozon.ru/context/detail/id/147417586/)  
 [Книга "Приемы объектно-ориентированного проектирования. Паттерны проектирования" — купить в интернет-магазине OZON с быстрой доставкой](https://www.ozon.ru/context/detail/id/2457392/)
 
+<br>
 
-
-## Алгоритмы
+# Алгоритмы
 
 [Алгоритмы не нужны программисту? - YouTube](https://www.youtube.com/watch?v=ytfJrfQz6n0)  
 [Алгоритмы и структуры данных простыми словами. Зачем учить алгоритмы? #codonaft - YouTube](https://www.youtube.com/watch?v=CB9bS46vl04)  
@@ -480,7 +460,7 @@ learn.javascript.ru
 [10 алгоритмов на графах в гифках](https://proglib.io/p/graphs-algoguide/)  
 [Алгоритмы и структуры данных поиска. Лекции и курсы от Яндекса / Блог компании Яндекс / Хабр](https://habr.com/ru/company/yandex/blog/208716/)
 
-**Книги**
+## Книги
 
 [Книга "Алгоритмы. Вводный курс" — купить в интернет-магазине OZON с быстрой доставкой](https://www.ozon.ru/context/detail/id/24903185/)  
 [Книга "Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих" — купить в интернет-магазине OZON с быстрой доставк](https://www.ozon.ru/context/detail/id/139296295/)  
@@ -490,9 +470,9 @@ learn.javascript.ru
 [Цифровая книга "Искусство программирования. Том 3. Сортировка и поиск" — купить в интернет-магазине OZON с быстрой доставкой](https://www.ozon.ru/context/detail/id/148568219/)  
 [Книга "Искусство программирования, том 4А. Комбинаторные алгоритмы. Часть 1" — купить в интернет-магазине OZON с быстрой доставкой](https://www.ozon.ru/context/detail/id/149325756/)
 
+<br>
 
-
-## Linux
+# Linux
 
 [the-art-of-command-line/README-ru.md at master · jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)  
 [Базовые команды ОС UNIX | Параллельные вычисления в УрО РАН](http://parallel.uran.ru/node/173)  
@@ -519,15 +499,15 @@ learn.javascript.ru
 [LINUX. Цикл лекций | Технострим - YouTube](https://www.youtube.com/watch?v=vzeaUDcC6K4&list=PLrCZzMib1e9rx3HmaLQfLYb9ociIvYOY1&index=6)  
 [Администрирование Linux. Цикл лекций - YouTube](https://www.youtube.com/watch?v=dQjUH0kTq8w&list=PLrCZzMib1e9pun72f4KmFopzPs5pGB85_&index=1)
 
-**Книги**
+## Книги
 
 [Книга "Операционная система UNIX" — купить в интернет-магазине OZON с быстрой доставкой](https://www.ozon.ru/context/detail/id/2419365/)  
 [Книга "Unix и Linux. Руководство системного администратора" — купить в интернет-магазине OZON с быстрой доставкой](https://www.ozon.ru/context/detail/id/7607778/)  
 [Advanced Programming in the UNIX Environment, 3rd Edition: Stevens, W. Richard, Rago, Stephen A.: 9780321637734: Amazon.com: Books](https://www.amazon.com/Advanced-Programming-UNIX-Environment-3rd/dp/0321637739)
 
+<br>
 
-
-## Git
+# Git
 
 [Скринкаст по Git – Основы - YouTube](https://www.youtube.com/watch?v=ePcY5dRdnPo&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h&index=6)  
 [Скринкаст по Git – Ветки – Введение - YouTube](https://www.youtube.com/watch?v=A9C7lJMaf1M&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h&index=20)  
@@ -538,9 +518,9 @@ learn.javascript.ru
 [10 полезных Git команд, которые облегчат работу](https://proglib.io/p/10-tips-git/)  
 [Шпаргалка по git-flow](https://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html)
 
+<br>
 
-
-## Математика
+# Математика
 
 [The Map of Mathematics - YouTube](https://www.youtube.com/watch?v=OmJ-4B-mS-Y&feature=emb_title)  
 [Матан за час. Шпаргалка для первокурсника. Высшая математика - YouTube](https://www.youtube.com/watch?v=A4zYWofyQLE&t=7s)  
@@ -550,15 +530,15 @@ learn.javascript.ru
 [Алгоритмы. Семинар 5. Быстрое преобразование Фурье - YouTube](https://www.youtube.com/watch?v=71hk65x8rec)  
 [Асимптотика сортировок. Сортировка подсчётом на Си - YouTube](https://www.youtube.com/watch?v=KdwiF_6ZvNw&t=5s)
 
-**Книги**
+## Книги
 
 [Книга "Курс дифференциального и интегрального исчисления. Том 1" — купить в интернет-магазине OZON с быстрой доставкой](https://www.ozon.ru/context/detail/id/148605852/)  
 [Книга "Курс дифференциального и интегрального исчисления. Том 2" — купить в интернет-магазине OZON с быстрой доставкой](https://www.ozon.ru/context/detail/id/148997568/)  
 [Книга "Курс дифференциального и интегрального исчисления. Том 3" — купить в интернет-магазине OZON с быстрой доставкой](https://www.ozon.ru/context/detail/id/148997569/)
 
+<br>
 
-
-## Английский
+# Английский
 
 [Eng movies with subs](https://engvideo.pro/ru/films/)  
 [Improve your English pronunciation using YouTube](https://youglish.com/)  
@@ -567,16 +547,16 @@ learn.javascript.ru
 [ПОЧЕМУ ВЫ НЕ СМОЖЕТЕ ГОВОРИТЬ КАК НОСИТЕЛЬ (почему не получится избавиться от русского акцента) 18+ - YouTube](https://www.youtube.com/watch?v=0RbONCu-XyI)  
 [Improve your Vocabulary: Stop saying VERY! - YouTube](https://www.youtube.com/watch?v=PCoyTwltu5g)
 
-**Книги**
+## Книги
 
 [Книга "A Practical English Grammar"](https://www.ozon.ru/context/detail/id/22023838/)  
 [Книга "English Grammar in Use with Answers"](https://www.ozon.ru/context/detail/id/8787959/)  
 [Книга "Advanced Grammar in Use with Answers: A Self-Study Reference and Practice Book for Advanced Learners of English"](https://www.ozon.ru/context/detail/id/22430278/)  
 [Книга "English Grammar. Reference and Practice. Учебное пособие"](https://www.ozon.ru/context/detail/id/142888388/)
 
+<br>
 
-
-## Машинное обучение
+# Машинное обучение
 
 [Алексей Натекин - Мифы Big Data и Machine Learning - YouTube](https://www.youtube.com/watch?v=tEIkgAsYWb0)  
 [Введение в Машинное Обучение (Машинное Обучение: Zero to Hero, часть 1) - YouTube](https://www.youtube.com/watch?v=qu_WEHvGXWk&list=PLQY2H8rRoyvzTo1p5Hs6hidZHEpx23qtD)  
@@ -585,16 +565,16 @@ learn.javascript.ru
 [020\. Малый ШАД - Машинное обучение и анализ данных - Александр Фонарев - YouTube](https://www.youtube.com/watch?v=utP5kqDEjao&list=PLGfm9f_JsQyFaPn_BANlLv73U9UwV6Tks)  
 [Математика машинного обучения | Вектор, матрица, тензор - YouTube](https://www.youtube.com/watch?v=8Akj6DECbcc)
 
+<br>
 
-
-## Анализ данных
+# Анализ данных
 
 [Курс "Введение в анализ данных" - YouTube](https://www.youtube.com/watch?v=5Yl6_2d0CN0&list=PLrCZzMib1e9p6lpNv-yt6uvHGyBxQncEh)  
 [Data Mining (Технострим) - YouTube](https://www.youtube.com/watch?v=z5CFef4SGnA&list=PLrCZzMib1e9qq4fABTTgA5XPB-N1aahIV)
 
+<br>
 
-
-## Пиринг
+# Пиринг
 
 [Как правильно пользоваться stun? — Хабр Q&A](https://qna.habr.com/q/539406)  
 [Implementations - libp2p](https://libp2p.io/implementations/)  
@@ -619,44 +599,44 @@ learn.javascript.ru
 [Запуск VPN-сервера за провайдерским NAT'ом / Хабр](https://habr.com/ru/post/482888/)  
 [Сервер iRC за 5 минут / Песочница / Хабр](https://habr.com/ru/sandbox/23477/?mobile=no%3Fmobile%3Dno)
 
+<br>
 
-
-## Блокчейн
-
-...
-
-
-
-## Каналы на Youtube, Дзен
+# Блокчейн
 
 ...
 
+<br>
 
+# Каналы на Youtube, Дзен
 
-## Тусовки
+...
+
+<br>
+
+# Тусовки
 
 [Конференции / Хабр](https://habr.com/ru/hub/tech_events/)  
 [Хакатоны / Хабр](https://habr.com/ru/hub/hackathons/)  
 [it-events](https://it-events.com/)  
 [it-events/hackathons](https://it-events.com/hackathons)
 
+<br>
 
+# Трудоустройство
 
-## Трудоустройство
-
-**Как написать резюме**
+## Как написать резюме
 
 [Resumes, CVs, Cover Letters and LinkedIn | MIT Career Advising & Professional Development](https://capd.mit.edu/jobs-and-internships/resumes-cvs-cover-letters-and-linkedin)  
 [Как написать лучшее резюме + Разбор вакансий - YouTube](https://www.youtube.com/watch?v=ojObVhOaJh4)  
 В Google Docs есть удобный шаблон для создания резюме.
 
-**Где искать работу**
+## Где искать работу
 
 [Хабр Карьера](https://career.habr.com/)  
 [HH](https://spb.hh.ru/)  
 [Indeed](https://ru.indeed.com/)
 
-**Работа заграницей**
+## Работа заграницей
 
 [100% КАК УЕХАТЬ В США ПРОГРАММИСТУ/АЙТИШНИКУ - YouTube](https://www.youtube.com/watch?v=za4zRxv_OX4)  
 [Jobs | Glassdoor](https://www.glassdoor.com/Job/Home/recentActivity.htm)  
@@ -666,13 +646,13 @@ learn.javascript.ru
 [We Work Remotely: Remote jobs in design, programming, marketing and more](https://weworkremotely.com/)  
 [Developer Jobs, Programming Jobs & More - Stack Overflow](https://stackoverflow.com/jobs)
 
-**Фриланс**
+## Фриланс
 
 Ищите сами.
 
+<br>
 
-
-## Предпринимательство
+# Предпринимательство
 
 [Business class 2.0](https://bc2.business-class.pro/trajectory/6ed6a93f33d1/lesson?id=44)  
 [Тарифы РКО для ИП и юридических лиц](https://www.tinkoff.ru/business/tariffs/)  
@@ -684,9 +664,9 @@ learn.javascript.ru
 [ПАССИВНЫЙ ДОХОД - 4 ЛУЧШИХ СХЕМЫ. Зарабатывайте деньги пока спите и отдыхаете! - YouTube](https://www.youtube.com/watch?v=3396CqddOQA)  
 [Как заработать в кризис: 10 лучших онлайн профессий 2020 - YouTube](https://www.youtube.com/watch?v=yMilJ6qDGdQ&feature=push-u-sub&attr_tag=oqEhm5SKkdsgHuEW%3A6)
 
+<br>
 
-
-## Продвижение
+# Продвижение
 
 [100 доступных способов получить бесплатный трафик на свой сайт (без учета SEO)](http://web.archive.org/web/20170312041140/https://alphaforum.ru/showthread.php?t=1252)  
 [Как увеличить трафик: 60 способов, которые взорвут вашу посещаемость](https://texterra.ru/blog/kak-uvelichit-trafik-60-sposobov-kotorye-vzorvut-vashu-poseshchaemost.html)  
@@ -694,9 +674,9 @@ learn.javascript.ru
 [Бесплатные способы продвижения Android-приложений / Хабрахабр](https://habr.ru/post/147243/)  
 [Как я не спал год или создание социального Android приложения / Хабрахабр](https://habr.com/ru/post/182138/)
 
+<br>
 
-
-## Финансы
+# Финансы
 
 [Как работают форекс кухни? О форексе с юмором. - YouTube](https://youtube.com/watch?v=14SOXl22JtU)  
 [Защитный продукт «Защищенный рубль» — гарантированный доход в рублях — Премьер БКС](https://bcspremier.ru/promo/protected/?refid=7806&utm_source=google&utm_medium=cpc&utm_campaign=1080148938~Premier_All-Auto_RF_Smart&utm_content=393377478862~m~mcrate.su&utm_term=~~55593145387&gclid=Cj0KCQiAnL7yBRD3ARIsAJp_oLYgYkpfte83MdiCSxaeJRpqMrxOwtLuPlxrnR33tzMXxtc-JZQONh0aAvt1EALw_wcB)  
@@ -728,7 +708,7 @@ learn.javascript.ru
 [Инвестиции 101](https://investments101.ru/dashboard)  
 [Инвестиции. Обучение - YouTube](https://www.youtube.com/watch?v=XMxH8fcLo4A&list=PL4lkulldzqhp9J46Y3bKMK166kpsFxFRA)
 
-**Книги**
+## Книги
 
 [Путь к финансовой свободе / 3-е изд. ➠ Шефер Бодо | Буквоед ISBN 978-985-15-4206-8](https://www.bookvoed.ru/book?id=479053&utm_source=yandex.market&utm_medium=cpc&utm_campaign=yandex.market.books&pp=4bd84c1fee7cc187fb2cc7fa5cce8c46&utm_content=offer-479053-feed-63358&utm_term=479053&ymclid=15836496017384088135200007)  
 [Законы победителей ➠ Шефер Бодо | Буквоед ISBN 978-985-15-3855-9](https://www.bookvoed.ru/book?id=9366677)  
