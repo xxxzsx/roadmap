@@ -224,6 +224,11 @@ Zeplin
 
 # JavaScript
 
+<div align="center">
+    <h2>Добро пожаловать в JavaScript</h2>
+    <a href="http://www.youtube.com/watch?v=8p1uLKYAwEw"><img src="https://yt-embed.herokuapp.com/embed?v=8p1uLKYAwEw"></a>
+</div><br>
+
 [learn.javascript.ru](https://learn.javascript.ru)  
 [Javascript-джедай](https://www.youtube.com/watch?v=H6G63NKRSi8&list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem)  
 [Понимаем замыкания в JavaScript. Раз и навсегда - Stas Bagretsov - Medium](https://medium.com/@stasonmars/%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%B5%D0%BC-%D0%B7%D0%B0%D0%BC%D1%8B%D0%BA%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B2-javascript-%D1%80%D0%B0%D0%B7-%D0%B8-%D0%BD%D0%B0%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0-c211805b6898)  
