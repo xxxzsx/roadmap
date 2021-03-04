@@ -227,10 +227,15 @@ Zeplin
 <div align="center">
     <h2>Добро пожаловать в JavaScript</h2>
     <a href="http://www.youtube.com/watch?v=8p1uLKYAwEw"><img src="https://yt-embed.herokuapp.com/embed?v=8p1uLKYAwEw"></a>
-</div><br>
+</div>
 
-[learn.javascript.ru](https://learn.javascript.ru)  
-[Javascript-джедай](https://www.youtube.com/watch?v=H6G63NKRSi8&list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem)  
+## Полный курс по JavaScript
+
+* [learn.javascript.ru](https://learn.javascript.ru)  
+* [Javascript-джедай](https://www.youtube.com/watch?v=H6G63NKRSi8&list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem)  
+
+## Тонкости
+
 [Понимаем замыкания в JavaScript. Раз и навсегда - Stas Bagretsov - Medium](https://medium.com/@stasonmars/%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%B5%D0%BC-%D0%B7%D0%B0%D0%BC%D1%8B%D0%BA%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B2-javascript-%D1%80%D0%B0%D0%B7-%D0%B8-%D0%BD%D0%B0%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0-c211805b6898)  
 [Var, let или const? Проблемы областей видимости переменных](https://medium.com/webbdev/var-let-%D0%B8%D0%BB%D0%B8-const-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D0%B9-%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-d5c2e04bf467)  
 [Основы ES6](https://www.youtube.com/watch?v=4YfsAz-sNAo&list=PLqHlAwsJRxAOpWPtj2T6HhSzX-lKmKV2q)  
@@ -544,6 +549,9 @@ Zeplin
 <br>
 
 # Алгоритмы и структуры данных
+<div align="center">
+    <a href="http://www.youtube.com/watch?v=ytfJrfQz6n0"><img src="https://yt-embed.herokuapp.com/embed?v=ytfJrfQz6n0"></a>
+</div>
 
 ## Сложность алгоритма и простые алгоритмы
 
@@ -643,18 +651,12 @@ Zeplin
 
 - Сжатие информации без потерь
 
-## Введение в криптографию
+## Криптографические алгоритмы
 
-- Краткая история. Перестановочные шифры: История криптографии; Перестановочный шифр и его расшифровка; Взлом перестановочного шифра; Маршрутный шифр.
-- Шифры подстановки: Шифр Цезаря; Шифр Виженера; Простой подстановочный шифр; Одноразовый блокнот.
-- Блочные шифры: Определение блочных шифров; Трехраундовый шифр; Шифр Фейстеля.
-- DSA
-- RSA
-- AES
+- [#Криптографические алгоритмы](#криптография)
 
 ## Ресурсы
 
-[Алгоритмы не нужны программисту? - YouTube](https://www.youtube.com/watch?v=ytfJrfQz6n0)  
 [Алгоритмы и структуры данных простыми словами. Зачем учить алгоритмы? #codonaft - YouTube](https://www.youtube.com/watch?v=CB9bS46vl04)  
 [Зачем программисту знать алгоритмы | Habr.com | Яндекс Дзен](https://zen.yandex.ru/media/habr/zachem-programmistu-znat-algoritmy-5e328a59a8d2c13a206666aa)  
 [8 известных структур данных, о которых спросят на собеседовании](https://proglib.io/p/8-data-structures/)  
@@ -757,7 +759,7 @@ Zeplin
 
 ## Введение в блокчейн
 
-- Обязательно знание [P2P](#peer-to-peer-сети) и [криптографии](#криптография)
+- Обязательно знание [#P2P](#peer-to-peer-сети) и [#криптографии](#криптография)
 - Основные продукты. Основы блокчейна: свойства, состояния, транзакции, блоки. Доверие к участникам сети
 - Работа с GPG: создание пары ключей, подпись, шифрование. Подключение к тестнету BTC, создание кошелька, работа с эксплорером. Работа с тестнетом Ethereum‍
 - Представление о вычислениях на несколько сторон. Схема разделения секрета Шамира. Схема commit-reveal. Криптографические протоколы garbled circuits и oblivious transfer. ORAM
