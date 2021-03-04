@@ -751,9 +751,16 @@ Zeplin
 - Threshold-протоколы, BLS-подписи, протокол разделения секрета Фиата-Шамира, протокол подбрасывания монеты и другие важные для децентрализованных систем протоколы
 - Zero-knowledge протоколы, свойства: soundness, completeness, zero-knowledge. Протоколы знания секретной экспоненты, pairings на эллиптических кривых, кольцевые подписи, multi-party computations.
 
-<br>
+# Peer-to-peer сети
 
-# Пиринг
+- P2P-сети: отличия от архитектуры «клиент — сервер». Маршрутизация, bootstrapping P2P-клиента, announce vs request. Балансировка. Неструктурированные и структурированные оверлеи. eDonkey, KaZaaa, BitTorrent, mixed networks (TOR, i2p), блокчейны.
+- Общая схема работы децентрализованной сети, сообщения, маршруты, DHT (Distributed Hash Table)
+- Протокол Kademlia, метрики расстояния
+- IPFS и проблемы distributed storage
+- Хранение файлов в P2P и атаки на P2P. BitTorrent. IPFS‍
+- P2P сеть как транспорт для работы в децентрализованных сетях.
+
+## Ресурсы
 
 [Как правильно пользоваться stun? — Хабр Q&A](https://qna.habr.com/q/539406)  
 [Implementations - libp2p](https://libp2p.io/implementations/)  
