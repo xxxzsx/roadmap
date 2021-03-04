@@ -398,6 +398,103 @@ Zeplin
 
 <br>
 
+# Linux
+
+![](https://i.imgur.com/ux4w7ez.png)
+
+## Системное администрирование Linux
+
+- Основы устройства Linux, её файловая система, процессы и память. Что такое точка монтирования, ядро Linux, сокеты и пакетный менеджер.
+- Работа с файловой системой, дисками и разделами. Как настроить файл подкачки и смонтировать диск с файловой системой.
+- Основные операции в Bash-терминале. Работа с файлами и каталогами
+- Привилегии в Linux, управление доступом, учётные записи и групповые политики
+- Управление вводом/выводом. Конвейерная обработка
+- Управление процессами
+- Загрузка и конфигурация ядра в Linux
+- Запуск user space, Systemd
+- Управление системой, расписание
+- Логирование и мониторинг
+- Механизмы управления безопасностью. Основные понятия контроля доступа в DAC. Утилиты для управления безопасностью. Создание нового пользователя и ограничение его в правах доступа с помощью SELinux.
+- Повышение привилегий в Linux. Методы повышения привилегии пользователя в Linux. Рутинг, SUID, SUDO, cron jobs и контрмеры. Утилиты для повышения привилегий.
+
+## Сетевое администрирование Linux
+
+- Интернет
+- Как работать с маской подсети и определять адрес сети с помощью IP-адреса. Познакомитесь с методом бесклассовой адресации CIDR.
+- Маршрутизация. Таблицы маршрутизации. Default gateway.
+- ICMP и DNS
+- Физический уровень. Ethernet и сетевые интерфейсы
+- Network Configuration Manager vs ifconfig
+- DNS
+- Localhost
+- Транспортный уровень. TCP и UDP, порты и сервисы транспортного уровня.
+- DHCP
+- Настройка маршрутизации. Приватные сети и трансляция адресов (NAT).
+- Linux Firewall
+- ARP
+- Беспроводные соединения
+- Модель клиент-сервер
+- Сетевые сервисы
+- HTTP/HTTPS
+- SSH
+- Inetd and xinetd daemons. TCP Wrappers.
+- Сбор и анализ трафика с помощью pcap и netflow
+
+## Bash
+
+- Работа с файлами и папками. Относительные и абсолютные пути. Операции с файлами и папками. Размер папок и свободное место. Ввод, вывод и перенаправление данных. Команда grep.
+- Авторизация и права доступа. Пользователи и права доступа. Авторизация, FTP, SSH и SSH-ключи. Скачивание файлов.
+- Процессы, сервисы и задачи. Менеджмент джобов, jobs, bg, fg. Управление процессами, top, ps, kill. Планирование задач, crontab. Сервисы и управление ими.
+- Параметры и настройки bash. Популярные сочетания клавиш.
+
+## Ресурсы
+
+[the-art-of-command-line/README-ru.md at master · jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)  
+[Базовые команды ОС UNIX | Параллельные вычисления в УрО РАН](http://parallel.uran.ru/node/173)  
+[8.4. Управление процессами | Linux для пользователя | Книги и руководства | Библиотека Линуксцентра | Linuxcenter.Ru – эксперт по Linux и свободному прогр](https://www.linuxcenter.ru/lib/books/kostromin/gl_08_04.phtml)  
+[LINUX. Основы | Технострим - YouTube](https://www.youtube.com/watch?v=CQ4YpkeG3mQ&list=PLrCZzMib1e9rx3HmaLQfLYb9ociIvYOY1)  
+[LPIC-1 Курс Linux для системного администратора: загрузка Linux - YouTube](https://www.youtube.com/watch?v=1oBRzEBvvLw)  
+[Что такое runlevels и как их изменить - YouTube](https://www.youtube.com/watch?v=lnEnse05yvY)  
+[Изучаем Linux, 101: Командная строка Linux](https://www.ibm.com/developerworks/ru/library/l-lpic1-v3-103-1/index.html)  
+[LPIC-1 Курс Linux для системного администратора: работа с шеллом sh, bash - YouTube](https://www.youtube.com/watch?v=FreM-GvTJPw)  
+[LINUX. Пользовательское окружение Linux | Технострим - YouTube](https://www.youtube.com/watch?v=o-fYDhAS3hc)  
+[LPIC-1 Курс Linux для системного администратора: Написание скриптов Bash, sh - YouTube](https://www.youtube.com/watch?v=DaDiE8Ukjr4)  
+[LPIC-1 Курс Linux для системного администратора: Автоматизация - YouTube](https://www.youtube.com/watch?v=mWfV-DaerNY)  
+[LINUX. Управление пользовательским окружением | Технострим - YouTube](https://www.youtube.com/watch?v=HdB39dL0DbE)  
+[LPIC-1 Курс Linux для системного администратора: Безопасность Linux - YouTube](https://www.youtube.com/watch?v=ES516oGgb0g)  
+[LPIC-1 Курс Linux для системного администратора: управление процессами Linux - YouTube](https://www.youtube.com/watch?v=moEZHiMWz60)  
+[Компьютерные сети от А до Я: классификация, стандарты и уровни](https://proglib.io/p/computer-network/)  
+[Основы TCP/IP для будущих дилетантов / Хабр](https://habr.com/ru/post/326574/)  
+[LPIC-1 Курс Linux для системного администратора: настройка сети - YouTube](https://www.youtube.com/watch?v=9LHV4TW3fgo)  
+[LINUX. Linux и сеть (основы) | Технострим - YouTube](https://www.youtube.com/watch?v=pBcerifwvek)  
+[Уроки Linux - Конфигурирование сетевых интерфейсов в Linux - YouTube](https://www.youtube.com/watch?v=dnYHPbfvXgs)  
+[Научись Linux: пользователи и права доступа (эпизод 6) - YouTube](https://www.youtube.com/watch?v=ICKs6uEnXWQ)  
+[Научись Linux: Pipeline (эпизод 7) - YouTube](https://www.youtube.com/watch?v=XdVhQu3II_s)  
+[Научись Linux: .bashrc и команда alias (эпизод 8) - YouTube](https://www.youtube.com/watch?v=SPUXI291MhQ)  
+[LINUX. Цикл лекций | Технострим - YouTube](https://www.youtube.com/watch?v=vzeaUDcC6K4&list=PLrCZzMib1e9rx3HmaLQfLYb9ociIvYOY1&index=6)  
+[Администрирование Linux. Цикл лекций - YouTube](https://www.youtube.com/watch?v=dQjUH0kTq8w&list=PLrCZzMib1e9pun72f4KmFopzPs5pGB85_&index=1)
+
+## Книги
+
+[Книга "Операционная система UNIX" — купить в интернет-магазине OZON с быстрой доставкой](https://www.ozon.ru/context/detail/id/2419365/)  
+[Книга "Unix и Linux. Руководство системного администратора" — купить в интернет-магазине OZON с быстрой доставкой](https://www.ozon.ru/context/detail/id/7607778/)  
+[Advanced Programming in the UNIX Environment, 3rd Edition: Stevens, W. Richard, Rago, Stephen A.: 9780321637734: Amazon.com: Books](https://www.amazon.com/Advanced-Programming-UNIX-Environment-3rd/dp/0321637739)
+
+<br>
+
+# Git
+
+[Скринкаст по Git – Основы - YouTube](https://www.youtube.com/watch?v=ePcY5dRdnPo&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h&index=6)  
+[Скринкаст по Git – Ветки – Введение - YouTube](https://www.youtube.com/watch?v=A9C7lJMaf1M&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h&index=20)  
+[Про Git, Github и Gitflow простыми словами - Библиотека программиста](https://proglib.io/p/git-github-gitflow/)  
+[Git — инструмент для совместной работы, с нуля и до регламента в команде — Сергей Сергеев - YouTube](https://www.youtube.com/watch?v=yDSs80lu3ak)  
+[Git: советы новичкам – часть 1 / Блог компании Playrix / Хабр](https://habr.com/ru/company/playrix/blog/345732/)  
+[Как я использую git / Хабр](https://habr.com/ru/post/336708/)  
+[10 полезных Git команд, которые облегчат работу](https://proglib.io/p/10-tips-git/)  
+[Шпаргалка по git-flow](https://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html)
+
+<br>
+
 # Проектирование
 
 [Ты должен писать плохой код - YouTube](https://www.youtube.com/watch?v=-R455cuPsV4)  
@@ -586,103 +683,6 @@ Zeplin
 
 <br>
 
-# Linux
-
-![](https://i.imgur.com/ux4w7ez.png)
-
-## Системное администрирование Linux
-
-- Основы устройства Linux, её файловая система, процессы и память. Что такое точка монтирования, ядро Linux, сокеты и пакетный менеджер.
-- Работа с файловой системой, дисками и разделами. Как настроить файл подкачки и смонтировать диск с файловой системой.
-- Основные операции в Bash-терминале. Работа с файлами и каталогами
-- Привилегии в Linux, управление доступом, учётные записи и групповые политики
-- Управление вводом/выводом. Конвейерная обработка
-- Управление процессами
-- Загрузка и конфигурация ядра в Linux
-- Запуск user space, Systemd
-- Управление системой, расписание
-- Логирование и мониторинг
-- Механизмы управления безопасностью. Основные понятия контроля доступа в DAC. Утилиты для управления безопасностью. Создание нового пользователя и ограничение его в правах доступа с помощью SELinux.
-- Повышение привилегий в Linux. Методы повышения привилегии пользователя в Linux. Рутинг, SUID, SUDO, cron jobs и контрмеры. Утилиты для повышения привилегий.
-
-## Сетевое администрирование Linux
-
-- Интернет
-- Как работать с маской подсети и определять адрес сети с помощью IP-адреса. Познакомитесь с методом бесклассовой адресации CIDR.
-- Маршрутизация. Таблицы маршрутизации. Default gateway.
-- ICMP и DNS
-- Физический уровень. Ethernet и сетевые интерфейсы
-- Network Configuration Manager vs ifconfig
-- DNS
-- Localhost
-- Транспортный уровень. TCP и UDP, порты и сервисы транспортного уровня.
-- DHCP
-- Настройка маршрутизации. Приватные сети и трансляция адресов (NAT).
-- Linux Firewall
-- ARP
-- Беспроводные соединения
-- Модель клиент-сервер
-- Сетевые сервисы
-- HTTP/HTTPS
-- SSH
-- Inetd and xinetd daemons. TCP Wrappers.
-- Сбор и анализ трафика с помощью pcap и netflow
-
-## Bash
-
-- Работа с файлами и папками. Относительные и абсолютные пути. Операции с файлами и папками. Размер папок и свободное место. Ввод, вывод и перенаправление данных. Команда grep.
-- Авторизация и права доступа. Пользователи и права доступа. Авторизация, FTP, SSH и SSH-ключи. Скачивание файлов.
-- Процессы, сервисы и задачи. Менеджмент джобов, jobs, bg, fg. Управление процессами, top, ps, kill. Планирование задач, crontab. Сервисы и управление ими.
-- Параметры и настройки bash. Популярные сочетания клавиш.
-
-## Ресурсы
-
-[the-art-of-command-line/README-ru.md at master · jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)  
-[Базовые команды ОС UNIX | Параллельные вычисления в УрО РАН](http://parallel.uran.ru/node/173)  
-[8.4. Управление процессами | Linux для пользователя | Книги и руководства | Библиотека Линуксцентра | Linuxcenter.Ru – эксперт по Linux и свободному прогр](https://www.linuxcenter.ru/lib/books/kostromin/gl_08_04.phtml)  
-[LINUX. Основы | Технострим - YouTube](https://www.youtube.com/watch?v=CQ4YpkeG3mQ&list=PLrCZzMib1e9rx3HmaLQfLYb9ociIvYOY1)  
-[LPIC-1 Курс Linux для системного администратора: загрузка Linux - YouTube](https://www.youtube.com/watch?v=1oBRzEBvvLw)  
-[Что такое runlevels и как их изменить - YouTube](https://www.youtube.com/watch?v=lnEnse05yvY)  
-[Изучаем Linux, 101: Командная строка Linux](https://www.ibm.com/developerworks/ru/library/l-lpic1-v3-103-1/index.html)  
-[LPIC-1 Курс Linux для системного администратора: работа с шеллом sh, bash - YouTube](https://www.youtube.com/watch?v=FreM-GvTJPw)  
-[LINUX. Пользовательское окружение Linux | Технострим - YouTube](https://www.youtube.com/watch?v=o-fYDhAS3hc)  
-[LPIC-1 Курс Linux для системного администратора: Написание скриптов Bash, sh - YouTube](https://www.youtube.com/watch?v=DaDiE8Ukjr4)  
-[LPIC-1 Курс Linux для системного администратора: Автоматизация - YouTube](https://www.youtube.com/watch?v=mWfV-DaerNY)  
-[LINUX. Управление пользовательским окружением | Технострим - YouTube](https://www.youtube.com/watch?v=HdB39dL0DbE)  
-[LPIC-1 Курс Linux для системного администратора: Безопасность Linux - YouTube](https://www.youtube.com/watch?v=ES516oGgb0g)  
-[LPIC-1 Курс Linux для системного администратора: управление процессами Linux - YouTube](https://www.youtube.com/watch?v=moEZHiMWz60)  
-[Компьютерные сети от А до Я: классификация, стандарты и уровни](https://proglib.io/p/computer-network/)  
-[Основы TCP/IP для будущих дилетантов / Хабр](https://habr.com/ru/post/326574/)  
-[LPIC-1 Курс Linux для системного администратора: настройка сети - YouTube](https://www.youtube.com/watch?v=9LHV4TW3fgo)  
-[LINUX. Linux и сеть (основы) | Технострим - YouTube](https://www.youtube.com/watch?v=pBcerifwvek)  
-[Уроки Linux - Конфигурирование сетевых интерфейсов в Linux - YouTube](https://www.youtube.com/watch?v=dnYHPbfvXgs)  
-[Научись Linux: пользователи и права доступа (эпизод 6) - YouTube](https://www.youtube.com/watch?v=ICKs6uEnXWQ)  
-[Научись Linux: Pipeline (эпизод 7) - YouTube](https://www.youtube.com/watch?v=XdVhQu3II_s)  
-[Научись Linux: .bashrc и команда alias (эпизод 8) - YouTube](https://www.youtube.com/watch?v=SPUXI291MhQ)  
-[LINUX. Цикл лекций | Технострим - YouTube](https://www.youtube.com/watch?v=vzeaUDcC6K4&list=PLrCZzMib1e9rx3HmaLQfLYb9ociIvYOY1&index=6)  
-[Администрирование Linux. Цикл лекций - YouTube](https://www.youtube.com/watch?v=dQjUH0kTq8w&list=PLrCZzMib1e9pun72f4KmFopzPs5pGB85_&index=1)
-
-## Книги
-
-[Книга "Операционная система UNIX" — купить в интернет-магазине OZON с быстрой доставкой](https://www.ozon.ru/context/detail/id/2419365/)  
-[Книга "Unix и Linux. Руководство системного администратора" — купить в интернет-магазине OZON с быстрой доставкой](https://www.ozon.ru/context/detail/id/7607778/)  
-[Advanced Programming in the UNIX Environment, 3rd Edition: Stevens, W. Richard, Rago, Stephen A.: 9780321637734: Amazon.com: Books](https://www.amazon.com/Advanced-Programming-UNIX-Environment-3rd/dp/0321637739)
-
-<br>
-
-# Git
-
-[Скринкаст по Git – Основы - YouTube](https://www.youtube.com/watch?v=ePcY5dRdnPo&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h&index=6)  
-[Скринкаст по Git – Ветки – Введение - YouTube](https://www.youtube.com/watch?v=A9C7lJMaf1M&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h&index=20)  
-[Про Git, Github и Gitflow простыми словами - Библиотека программиста](https://proglib.io/p/git-github-gitflow/)  
-[Git — инструмент для совместной работы, с нуля и до регламента в команде — Сергей Сергеев - YouTube](https://www.youtube.com/watch?v=yDSs80lu3ak)  
-[Git: советы новичкам – часть 1 / Блог компании Playrix / Хабр](https://habr.com/ru/company/playrix/blog/345732/)  
-[Как я использую git / Хабр](https://habr.com/ru/post/336708/)  
-[10 полезных Git команд, которые облегчат работу](https://proglib.io/p/10-tips-git/)  
-[Шпаргалка по git-flow](https://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html)
-
-<br>
-
 # Математика
 
 [The Map of Mathematics - YouTube](https://www.youtube.com/watch?v=OmJ-4B-mS-Y&feature=emb_title)  
@@ -701,24 +701,6 @@ Zeplin
 
 <br>
 
-# Английский
-
-[Eng movies with subs](https://engvideo.pro/ru/films/)  
-[Improve your English pronunciation using YouTube](https://youglish.com/)  
-[Virginia Bēowulf · English Studies - YouTube](https://www.youtube.com/channel/UCKMGLK-Inu1lReNdbeYBgOA/videos)  
-[Английские артикли, которые не преподают в школе: AN, THE, NO, THEM, ONE – правил употребления нет? - YouTube](https://www.youtube.com/watch?v=Y1UfqervEb4)  
-[ПОЧЕМУ ВЫ НЕ СМОЖЕТЕ ГОВОРИТЬ КАК НОСИТЕЛЬ (почему не получится избавиться от русского акцента) 18+ - YouTube](https://www.youtube.com/watch?v=0RbONCu-XyI)  
-[Improve your Vocabulary: Stop saying VERY! - YouTube](https://www.youtube.com/watch?v=PCoyTwltu5g)
-
-## Книги
-
-[Книга "A Practical English Grammar"](https://www.ozon.ru/context/detail/id/22023838/)  
-[Книга "English Grammar in Use with Answers"](https://www.ozon.ru/context/detail/id/8787959/)  
-[Книга "Advanced Grammar in Use with Answers: A Self-Study Reference and Practice Book for Advanced Learners of English"](https://www.ozon.ru/context/detail/id/22430278/)  
-[Книга "English Grammar. Reference and Practice. Учебное пособие"](https://www.ozon.ru/context/detail/id/142888388/)
-
-<br>
-
 # Криптография
 
 - Понятие и история шифра, принцип Кирхгофа. Симметричное шифрование, шифр Вернама, поточные и блочные шифры. Симметричные и асимметричные криптосистемы.
@@ -732,6 +714,8 @@ Zeplin
 - Практические аспекты криптографии, реализации протоколов, криптографическая безопасность, атаки man-in-the-middle, системы сертификатов, клептографические атаки
 - Threshold-протоколы, BLS-подписи, протокол разделения секрета Фиата-Шамира, протокол подбрасывания монеты и другие важные для децентрализованных систем протоколы
 - Zero-knowledge протоколы, свойства: soundness, completeness, zero-knowledge. Протоколы знания секретной экспоненты, pairings на эллиптических кривых, кольцевые подписи, multi-party computations.
+
+<br>
 
 # Peer-to-peer сети
 
@@ -766,6 +750,8 @@ Zeplin
 [P2P в браузере / Блог компании DataArt / Хабр](https://habr.com/ru/company/dataart/blog/282612/)  
 [Запуск VPN-сервера за провайдерским NAT'ом / Хабр](https://habr.com/ru/post/482888/)  
 [Сервер iRC за 5 минут / Песочница / Хабр](https://habr.com/ru/sandbox/23477/?mobile=no%3Fmobile%3Dno)
+
+<br>
 
 # Блокчейн
 
@@ -850,6 +836,24 @@ Zeplin
 [Хакатоны / Хабр](https://habr.com/ru/hub/hackathons/)  
 [it-events](https://it-events.com/)  
 [it-events/hackathons](https://it-events.com/hackathons)
+
+<br>
+
+# Английский
+
+[Eng movies with subs](https://engvideo.pro/ru/films/)  
+[Improve your English pronunciation using YouTube](https://youglish.com/)  
+[Virginia Bēowulf · English Studies - YouTube](https://www.youtube.com/channel/UCKMGLK-Inu1lReNdbeYBgOA/videos)  
+[Английские артикли, которые не преподают в школе: AN, THE, NO, THEM, ONE – правил употребления нет? - YouTube](https://www.youtube.com/watch?v=Y1UfqervEb4)  
+[ПОЧЕМУ ВЫ НЕ СМОЖЕТЕ ГОВОРИТЬ КАК НОСИТЕЛЬ (почему не получится избавиться от русского акцента) 18+ - YouTube](https://www.youtube.com/watch?v=0RbONCu-XyI)  
+[Improve your Vocabulary: Stop saying VERY! - YouTube](https://www.youtube.com/watch?v=PCoyTwltu5g)
+
+## Книги
+
+[Книга "A Practical English Grammar"](https://www.ozon.ru/context/detail/id/22023838/)  
+[Книга "English Grammar in Use with Answers"](https://www.ozon.ru/context/detail/id/8787959/)  
+[Книга "Advanced Grammar in Use with Answers: A Self-Study Reference and Practice Book for Advanced Learners of English"](https://www.ozon.ru/context/detail/id/22430278/)  
+[Книга "English Grammar. Reference and Practice. Учебное пособие"](https://www.ozon.ru/context/detail/id/142888388/)
 
 <br>
 
