@@ -719,24 +719,6 @@ Zeplin
 
 <br>
 
-# Машинное обучение
-
-[Алексей Натекин - Мифы Big Data и Machine Learning - YouTube](https://www.youtube.com/watch?v=tEIkgAsYWb0)  
-[Введение в Машинное Обучение (Машинное Обучение: Zero to Hero, часть 1) - YouTube](https://www.youtube.com/watch?v=qu_WEHvGXWk&list=PLQY2H8rRoyvzTo1p5Hs6hidZHEpx23qtD)  
-[ДОД 2018: Что такое машинное обучение и примеры его использования в Яндексе - YouTube](https://www.youtube.com/watch?v=po31nmBzbCY)  
-[Машинное обучение 1. Введение, kNN-классификатор - YouTube](https://www.youtube.com/watch?v=JGIOoMRFPKk&list=PL4_hYwCyhAvasRqzz4w562ce0esEwS0Mt)  
-[020\. Малый ШАД - Машинное обучение и анализ данных - Александр Фонарев - YouTube](https://www.youtube.com/watch?v=utP5kqDEjao&list=PLGfm9f_JsQyFaPn_BANlLv73U9UwV6Tks)  
-[Математика машинного обучения | Вектор, матрица, тензор - YouTube](https://www.youtube.com/watch?v=8Akj6DECbcc)
-
-<br>
-
-# Анализ данных
-
-[Курс "Введение в анализ данных" - YouTube](https://www.youtube.com/watch?v=5Yl6_2d0CN0&list=PLrCZzMib1e9p6lpNv-yt6uvHGyBxQncEh)  
-[Data Mining (Технострим) - YouTube](https://www.youtube.com/watch?v=z5CFef4SGnA&list=PLrCZzMib1e9qq4fABTTgA5XPB-N1aahIV)
-
-<br>
-
 # Криптография
 
 - Понятие и история шифра, принцип Кирхгофа. Симметричное шифрование, шифр Вернама, поточные и блочные шифры. Симметричные и асимметричные криптосистемы.
