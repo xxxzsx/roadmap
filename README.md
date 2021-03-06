@@ -37,9 +37,8 @@
 
 ## Программы
 
-WebStorm или другие продукты JetBrains  
-[jetbrains-agent-latest.zip — OneDrive](https://onedrive.live.com/?authkey=%21AMIXXkzI4CJfIm8&cid=1CAC1C9786CFFED7&id=1CAC1C9786CFFED7%21892&parId=1CAC1C9786CFFED7%21891&action=locate)  
-[Custom license](https://zhile.io/custom/license)  
+Лучшие IDE для работы — от [JetBrains](https://www.jetbrains.com/):  
+PhpStorm, WebStorm (JS), PyCharm (Python), RubyMine, IntelliJ IDEA (Java), Android Studio, AppCode (Swift), ReSharper (C#), CLion (C/C++)  
 [Твоя IntelliJ IDEA или Как кодить со скоростью мысли - YouTube](https://www.youtube.com/watch?v=4izStfiSCYc)  
 [Эффективная работа с кодом в IntelliJ IDEA, или Знаете ли вы свою IDE как знаем её мы? - YouTube](https://www.youtube.com/watch?v=tpv5n2jWHlw)
 ...
