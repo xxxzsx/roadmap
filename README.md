@@ -718,6 +718,132 @@ Zeplin
 
 <br>
 
+# Сетевые технологии
+
+## Общие сведения о компьютерных сетях
+
+* [Классификация сетей](https://youtu.be/Y4LK1OZ54h0)
+* [Топологии компьютерных сетей](https://youtu.be/z8VmkYahV8M)
+* [Стандарты компьютерных сетей](https://youtu.be/1dWCwQpqydU)
+* [Основы организации компьютерных сетей](https://youtu.be/EPvxn9KvBvs)
+* [Модель OSI](https://youtu.be/Tt8BTkxz_Vc)
+* [Модель и стек протоколов TCP/IP](https://youtu.be/UZo4ffQ-aAc)
+* [Анализатор сети Wireshark](https://youtu.be/Cc5wi1bxmpc)
+
+## Физический уровень
+
+* [Физический уровень](https://youtu.be/yIf7hrgw8P4)
+
+## Канальный уровень
+
+* [Канальный уровень](https://youtu.be/zYiKcbmBfgU)
+* [Технология Ethernet](https://youtu.be/5hllhU_5vtY)
+* [MAC адреса](https://youtu.be/WcdwSJrTFA0)
+* [Ethernet. Метод доступа к разделяемой среде CSMA/CD](https://youtu.be/s-uDMX4X2jQ)
+* [Коммутаторы Ethernet](https://youtu.be/bdbsPC3b09A)
+* [Канальный уровень в Wireshark](https://youtu.be/HsPurrcG_9Y)
+* [VLAN](https://youtu.be/Ig4WoXWzhNc)
+* [Протокол STP](https://youtu.be/xtHlGmd94ec)
+* [Wi-Fi"](https://youtu.be/pXG-4L2Hn9M)
+* [Исследуем Wi-Fi](https://youtu.be/IXkw5x9t3wg)
+* [Wi-Fi. Метод доступа к разделяемой среде CSMA/CA"](https://youtu.be/9eWeUaHA_Us)
+* [Wi-Fi. Формат кадра](https://youtu.be/nhhDsnQoWh0)
+* [Сервисы Wi-Fi](https://youtu.be/FYAuqKjEpLs)
+
+## Сетевой уровень
+
+* [Сетевой уровень](https://youtu.be/K-yvp1ti-QU)
+* [IP-адреса, часть 1](https://youtu.be/Uj1XQgRXYOc)
+* [IP-адреса, часть 2](https://youtu.be/hSnXwFE0dqU)
+* [Протокол IP](https://youtu.be/b_Pv7FRLH0M)
+* [Протокол IP: практика](https://youtu.be/nY7RksxUJ6U)
+* [Протокол IP: маршрутизация](https://youtu.be/kZqqk1tixfk)
+* [Протокол IP: фрагментация](https://youtu.be/jbt1AKyJ4gw)
+* [Управляющие протоколы сетевого уровня](https://youtu.be/s1fZQgV67yY)
+* [Протокол DHCP](https://youtu.be/uZJ8WVdw-Ck)
+* [Протокол DHCP в Wireshark"](https://youtu.be/WaP4SZY0GJQ)
+* [Протокол ARP](https://youtu.be/EZkkodleWqc)
+* [Протокол ARP](https://youtu.be/0UbLESURFwQ)
+* [Протокол ICMP](https://youtu.be/9iG6ECpF-ko)
+* [Протокол ICMP в Wireshark](https://youtu.be/5S-4L0YUVDw)
+* [Протокол ICMP, утилита traceroute](https://youtu.be/TbsBhyyIth4)
+* [Передача пакетов на сетевом и канальном уровнях](https://youtu.be/sHHg-Ni3eIU)
+
+## Транспортный уровень
+
+* [Транспортный уровень](https://youtu.be/g7vq-JVId58)
+* [Протокол UDP](https://youtu.be/GBrLfZvRrd8)
+* [Протокол TCP](https://youtu.be/CKUOb4htnB4)
+* [Порты на транспортном уровне: практика](https://youtu.be/_7O9On9_TZE).
+* [Протокол TCP: скользящее окно](https://youtu.be/hd6QNXK5rPk)
+* [Протокол TCP: соединение](https://youtu.be/vt69HEbZ_pI)
+* [Протокол TCP: формат заголовка](https://youtu.be/wP8iUpM5DHU)
+* [Установка соединения в TCP: практика](https://youtu.be/REjQGkrREKg).
+* [Протокол TCP: управление потоком](https://youtu.be/YCW4fLqFlME)
+* [Протокол TCP: управление перегрузкой](https://youtu.be/lGUPQjvSMeo)
+* [Протокол TCP: управление перегрузкой, часть 2](https://youtu.be/H6rMGYRKI2s)
+* [Интерфейс сокетов](https://youtu.be/_vAjHdh92YU)
+* [Протоколы, интерфейсы и сервисы. Примеры](https://youtu.be/VGcKWSqrjgE)
+* [Инкапсуляция: практика](https://youtu.be/qKuw2HJQVzk).
+* [Трансляция сетевых адресов (NAT)](https://youtu.be/L1JtmAiSaFQ)
+* [Межсетевые экраны](https://youtu.be/9r6z9qggSIc)
+
+## Прикладной уровень
+
+* [Прикладной уровень](https://youtu.be/l_MAOvAbYho)
+* [Система доменных имен DNS](https://youtu.be/B0J0c0KLtbQ)
+* [Протокол DNS](https://youtu.be/yAlm-jTneeY)
+* [Протокол DNS в Wireshark: практика](https://youtu.be/i6fh-kb4Qps).
+* [Типы записей DNS](https://youtu.be/mvMYV0Hfig4)
+* [Типы записей DNS в Wireshark: практика](https://youtu.be/Ivg38bGTyAU).
+* [DNS: итеративный и рекурсивный режим: практика](https://youtu.be/no9yc-BHaFA).
+* [Протокол HTTP](https://youtu.be/RlccXUx4LVw)
+* [Постоянное соединение в HTTP](https://youtu.be/7DitlqcesKI)
+* [Кэширование в HTTP](https://youtu.be/esi6YZRvJzk)
+* [HTTP в текстовом режиме: практика](https://youtu.be/F6RYInA9IdY).
+* [Электронная почта](https://youtu.be/ocshYn2D_8g)
+* [Протокол SMTP](https://youtu.be/xUTmwcSDvSE)
+* [SMTP в текстовом режиме: практика](https://youtu.be/dKZ35haWChM).
+* [Протокол POP3](https://youtu.be/1swSSGvmnwU)
+* [POP3 в текстовом режиме: практика](https://youtu.be/DsbsClavuyc).
+* [Протокол IMAP](https://youtu.be/VGYHXIdtNS4)
+* [IMAP в текстовом режиме: практика](https://youtu.be/MRoyQjUfcxA).
+* [Протокол FTP](https://youtu.be/Uji0sQ-Co7Q)
+* [FTP в Wireshark: практика](https://youtu.be/ZHNPG_2kCnQ).
+
+## Защищенные сетевые протоколы
+
+* [Введение в TLS/SSL](https://youtu.be/LTLqazCztnc)
+* [Шифрование в TLS/SSL](https://youtu.be/kCkQRH5eweg)
+* [Целостность данных в TLS/SSL](https://youtu.be/57cUndFt-Ak)
+* [Инфраструктура открытых ключей в TLS/SSL](https://youtu.be/6wCwjIhGylY)
+* [Протокол TLS](https://youtu.be/FrHEXXTvW4c)
+* [Установка соединения в TLS](https://youtu.be/lKfyM980cOw)
+* [Анализируем протокол TLS в Wireshark](https://youtu.be/bYR0XacszUk)
+* [Расшифровка TLS в WireShark](https://youtu.be/efzQEAm7-Jc)
+* [Протокол TLS 1.3](https://youtu.be/vs65xb5mkdo)
+* [Протокол TLS 1.3 в WireShark](https://youtu.be/VIFJFHWlxzo)
+* [Протокол HTTPS](https://youtu.be/zZrHEWngsjY)
+* [Протокол HTTPS в WireShark](https://youtu.be/1r1iWq67v3c)
+
+## Продвинутые темы
+
+* [Web сокеты](https://youtu.be/TxVriqBkqbM)
+* [Web сокеты: практика](https://youtu.be/hA7fjYsuREc).
+* [Протокол IPv6](https://youtu.be/Y4l8ScRLrf4).
+* [Адреса IPv6](https://youtu.be/KRAKAAJTxTg).
+* [Протокол IPv6: практика](https://youtu.be/xCEiYBmEh38).
+* [Автоматическое назначение адресов IPv6](https://youtu.be/GZTqZQVSY1A).
+* [Протокол NDP](https://youtu.be/e50Xcxeol4E).
+* [Протокол NDP: практика](https://youtu.be/3Gxv7VRa8xQ).
+* [Протоколы маршрутизации](https://youtu.be/MSg8gx3wnfQ).
+* [Протокол маршрутизации RIP](https://youtu.be/LhvQoTsndRs).
+* [Протокол маршрутизации OSPF](https://youtu.be/rDPF5LZiyOw).
+* [Иерархическая маршрутизация](https://youtu.be/InXbCKWw2xo).
+* [Протокол BGP](https://youtu.be/ujH-wotkWls).
+
+<br>
+
 # Peer-to-peer сети
 
 - P2P-сети: отличия от архитектуры «клиент — сервер». Маршрутизация, bootstrapping P2P-клиента, announce vs request. Балансировка. Неструктурированные и структурированные оверлеи. eDonkey, KaZaaa, BitTorrent, mixed networks (TOR, i2p), блокчейны.
