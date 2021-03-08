@@ -746,9 +746,9 @@ Zeplin
 * [Канальный уровень в Wireshark](https://youtu.be/HsPurrcG_9Y)
 * [VLAN](https://youtu.be/Ig4WoXWzhNc)
 * [Протокол STP](https://youtu.be/xtHlGmd94ec)
-* [Wi-Fi"](https://youtu.be/pXG-4L2Hn9M)
+* [Wi-Fi](https://youtu.be/pXG-4L2Hn9M)
 * [Исследуем Wi-Fi](https://youtu.be/IXkw5x9t3wg)
-* [Wi-Fi. Метод доступа к разделяемой среде CSMA/CA"](https://youtu.be/9eWeUaHA_Us)
+* [Wi-Fi. Метод доступа к разделяемой среде CSMA/CA](https://youtu.be/9eWeUaHA_Us)
 * [Wi-Fi. Формат кадра](https://youtu.be/nhhDsnQoWh0)
 * [Сервисы Wi-Fi](https://youtu.be/FYAuqKjEpLs)
 
@@ -763,7 +763,7 @@ Zeplin
 * [Протокол IP: фрагментация](https://youtu.be/jbt1AKyJ4gw)
 * [Управляющие протоколы сетевого уровня](https://youtu.be/s1fZQgV67yY)
 * [Протокол DHCP](https://youtu.be/uZJ8WVdw-Ck)
-* [Протокол DHCP в Wireshark"](https://youtu.be/WaP4SZY0GJQ)
+* [Протокол DHCP в Wireshark](https://youtu.be/WaP4SZY0GJQ)
 * [Протокол ARP](https://youtu.be/EZkkodleWqc)
 * [Протокол ARP](https://youtu.be/0UbLESURFwQ)
 * [Протокол ICMP](https://youtu.be/9iG6ECpF-ko)
@@ -776,11 +776,11 @@ Zeplin
 * [Транспортный уровень](https://youtu.be/g7vq-JVId58)
 * [Протокол UDP](https://youtu.be/GBrLfZvRrd8)
 * [Протокол TCP](https://youtu.be/CKUOb4htnB4)
-* [Порты на транспортном уровне: практика](https://youtu.be/_7O9On9_TZE).
+* [Порты на транспортном уровне: практика](https://youtu.be/_7O9On9_TZE)
 * [Протокол TCP: скользящее окно](https://youtu.be/hd6QNXK5rPk)
 * [Протокол TCP: соединение](https://youtu.be/vt69HEbZ_pI)
 * [Протокол TCP: формат заголовка](https://youtu.be/wP8iUpM5DHU)
-* [Установка соединения в TCP: практика](https://youtu.be/REjQGkrREKg).
+* [Установка соединения в TCP: практика](https://youtu.be/REjQGkrREKg)
 * [Протокол TCP: управление потоком](https://youtu.be/YCW4fLqFlME)
 * [Протокол TCP: управление перегрузкой](https://youtu.be/lGUPQjvSMeo)
 * [Протокол TCP: управление перегрузкой, часть 2](https://youtu.be/H6rMGYRKI2s)
@@ -795,23 +795,23 @@ Zeplin
 * [Прикладной уровень](https://youtu.be/l_MAOvAbYho)
 * [Система доменных имен DNS](https://youtu.be/B0J0c0KLtbQ)
 * [Протокол DNS](https://youtu.be/yAlm-jTneeY)
-* [Протокол DNS в Wireshark: практика](https://youtu.be/i6fh-kb4Qps).
+* [Протокол DNS в Wireshark: практика](https://youtu.be/i6fh-kb4Qps)
 * [Типы записей DNS](https://youtu.be/mvMYV0Hfig4)
-* [Типы записей DNS в Wireshark: практика](https://youtu.be/Ivg38bGTyAU).
-* [DNS: итеративный и рекурсивный режим: практика](https://youtu.be/no9yc-BHaFA).
+* [Типы записей DNS в Wireshark: практика](https://youtu.be/Ivg38bGTyAU)
+* [DNS: итеративный и рекурсивный режим: практика](https://youtu.be/no9yc-BHaFA)
 * [Протокол HTTP](https://youtu.be/RlccXUx4LVw)
 * [Постоянное соединение в HTTP](https://youtu.be/7DitlqcesKI)
 * [Кэширование в HTTP](https://youtu.be/esi6YZRvJzk)
-* [HTTP в текстовом режиме: практика](https://youtu.be/F6RYInA9IdY).
+* [HTTP в текстовом режиме: практика](https://youtu.be/F6RYInA9IdY)
 * [Электронная почта](https://youtu.be/ocshYn2D_8g)
 * [Протокол SMTP](https://youtu.be/xUTmwcSDvSE)
-* [SMTP в текстовом режиме: практика](https://youtu.be/dKZ35haWChM).
+* [SMTP в текстовом режиме: практика](https://youtu.be/dKZ35haWChM)
 * [Протокол POP3](https://youtu.be/1swSSGvmnwU)
-* [POP3 в текстовом режиме: практика](https://youtu.be/DsbsClavuyc).
+* [POP3 в текстовом режиме: практика](https://youtu.be/DsbsClavuyc)
 * [Протокол IMAP](https://youtu.be/VGYHXIdtNS4)
-* [IMAP в текстовом режиме: практика](https://youtu.be/MRoyQjUfcxA).
+* [IMAP в текстовом режиме: практика](https://youtu.be/MRoyQjUfcxA)
 * [Протокол FTP](https://youtu.be/Uji0sQ-Co7Q)
-* [FTP в Wireshark: практика](https://youtu.be/ZHNPG_2kCnQ).
+* [FTP в Wireshark: практика](https://youtu.be/ZHNPG_2kCnQ)
 
 ## Защищенные сетевые протоколы
 
@@ -831,18 +831,18 @@ Zeplin
 ## Продвинутые темы
 
 * [Web сокеты](https://youtu.be/TxVriqBkqbM)
-* [Web сокеты: практика](https://youtu.be/hA7fjYsuREc).
-* [Протокол IPv6](https://youtu.be/Y4l8ScRLrf4).
-* [Адреса IPv6](https://youtu.be/KRAKAAJTxTg).
-* [Протокол IPv6: практика](https://youtu.be/xCEiYBmEh38).
-* [Автоматическое назначение адресов IPv6](https://youtu.be/GZTqZQVSY1A).
-* [Протокол NDP](https://youtu.be/e50Xcxeol4E).
-* [Протокол NDP: практика](https://youtu.be/3Gxv7VRa8xQ).
-* [Протоколы маршрутизации](https://youtu.be/MSg8gx3wnfQ).
-* [Протокол маршрутизации RIP](https://youtu.be/LhvQoTsndRs).
-* [Протокол маршрутизации OSPF](https://youtu.be/rDPF5LZiyOw).
-* [Иерархическая маршрутизация](https://youtu.be/InXbCKWw2xo).
-* [Протокол BGP](https://youtu.be/ujH-wotkWls).
+* [Web сокеты: практика](https://youtu.be/hA7fjYsuREc)
+* [Протокол IPv6](https://youtu.be/Y4l8ScRLrf4)
+* [Адреса IPv6](https://youtu.be/KRAKAAJTxTg)
+* [Протокол IPv6: практика](https://youtu.be/xCEiYBmEh38)
+* [Автоматическое назначение адресов IPv6](https://youtu.be/GZTqZQVSY1A)
+* [Протокол NDP](https://youtu.be/e50Xcxeol4E)
+* [Протокол NDP: практика](https://youtu.be/3Gxv7VRa8xQ)
+* [Протоколы маршрутизации](https://youtu.be/MSg8gx3wnfQ)
+* [Протокол маршрутизации RIP](https://youtu.be/LhvQoTsndRs)
+* [Протокол маршрутизации OSPF](https://youtu.be/rDPF5LZiyOw)
+* [Иерархическая маршрутизация](https://youtu.be/InXbCKWw2xo)
+* [Протокол BGP](https://youtu.be/ujH-wotkWls)
 
 <br>
 
