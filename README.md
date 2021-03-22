@@ -143,20 +143,24 @@ Figma • Zeplin • Avocode
 
 
 
-### Nodejs и серверный Javascript
+## Nodejs и серверный Javascript
 
 * https://docs.nestjs.com/
 - [Полный курс по Nodejs за 1 час](https://www.youtube.com/watch?v=8bE_PBRriyU)
 - [Все о Nodejs от Яндекс](https://www.youtube.com/watch?v=qZ5xzkEdkhg)
 
-## Express
+#### Express
 
 - [Crash course Traversy Media](https://www.youtube.com/watch?v=L72fhGm1tfE)
 
 
-## Koa
+#### Koa
 
+#### ORM и работа с БД с помощью JS
 
+- https://typeorm.io/
+- https://www.prisma.io/
+- https://sequelize.org/
 
 <br>
 
