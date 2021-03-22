@@ -395,15 +395,29 @@ Figma • Zeplin • Avocode
 
 <div align="center"><h1>Проектирование</h1></div><br>
 
+## Паттерны и шаблоны проектирования 
+
+- https://refactoring.guru/ru/design-patterns/catalog
+
+
+## Основные принципы 
+
+- [SOLID](https://habr.com/ru/company/mailru/blog/412699/)
+- [KISS](https://web-creator.ru/articles/kiss)
+- [DRY](https://web-creator.ru/articles/dry)
 
 
 ## Функциональное программирование
 
+### Посты про ФП 
 
+- https://habr.com/ru/post/142351/
+- https://tproger.ru/translations/functional-programming-concepts/
 
 ## Объектно-ориентированное программирование
 
-
+- https://habr.com/ru/post/463125/
+- https://tproger.ru/experts/oop-in-simple-words/
 
 ## Ресурсы
 
