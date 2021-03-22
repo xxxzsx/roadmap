@@ -76,13 +76,23 @@ PhpStorm, WebStorm (JS), PyCharm (Python), RubyMine, IntelliJ IDEA (Java), Andro
 
 <div align="center"><h1>Вёрстка</h1></div><br>
 
+## Обучающие интерактивы
+
+https://flexboxfroggy.com/#ru
+https://cssgridgarden.com/#ru
+
+## Практические курсы
+
+https://www.freecodecamp.org/learn/responsive-web-design/
+
 ## HTML
 
-* 
+http://htmlbook.ru/html
+https://developer.mozilla.org/ru/docs/Web/HTML
 
 ## CSS
 
-* 
+https://developer.mozilla.org/ru/docs/Web/CSS
 
 ## Инструменты для вёрстки
 
