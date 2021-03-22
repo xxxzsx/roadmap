@@ -76,13 +76,23 @@ PhpStorm, WebStorm (JS), PyCharm (Python), RubyMine, IntelliJ IDEA (Java), Andro
 
 <div align="center"><h1>Вёрстка</h1></div><br>
 
+## Обучающие интерактивы
+
+https://flexboxfroggy.com/#ru
+https://cssgridgarden.com/#ru
+
+## Практические курсы
+
+https://www.freecodecamp.org/learn/responsive-web-design/
+
 ## HTML
 
-* 
+http://htmlbook.ru/html
+https://developer.mozilla.org/ru/docs/Web/HTML
 
 ## CSS
 
-* 
+https://developer.mozilla.org/ru/docs/Web/CSS
 
 ## Инструменты для вёрстки
 
@@ -105,38 +115,52 @@ Figma • Zeplin • Avocode
 
 ## Полный курс по JavaScript
 
-* [learn.javascript.ru](https://learn.javascript.ru)
-* [Javascript-джедай](https://www.youtube.com/watch?v=H6G63NKRSi8&list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem)
+- [learn.javascript.ru](https://learn.javascript.ru)
+- [Javascript-джедай](https://www.youtube.com/watch?v=H6G63NKRSi8&list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem)
+- [Полный курс от Владилена Минина](https://www.youtube.com/watch?v=Bluxbh9CaQ0)
 
-## Взрыв жопы
+## Тяжелые темы
 
 * Приведение типов данных
 * Области видимости, замыкания, хойстинг
-* Ивент луп
+* Event loop 
 
 ## React
 
-
+- [Полный курс за 1 час от Валдилена Минина](https://www.youtube.com/watch?v=xJZa2_aldDs)
+- [Crash course Traversy Media](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
+- [Learn React JS - Full Course for Beginners - Tutorial 2019](https://www.youtube.com/watch?v=DLX62G4lc44)
+- https://reactjs.org/docs/getting-started.html
+- https://www.freecodecamp.org/learn/front-end-libraries/
 
 ## Vue.js
 
-
+- https://vuejs.org/v2/guide/
+- [Crash course Traversy Media 2021](https://www.youtube.com/watch?v=qZXt1Aom3Cs)
+- [Полный курс за 1 час от Владилена Минина](https://www.youtube.com/watch?v=OlnwgS-gk8Y)
 
 ## Webpack
 
 
 
-## Node
+## Nodejs и серверный Javascript
+
+* https://docs.nestjs.com/
+- [Полный курс по Nodejs за 1 час](https://www.youtube.com/watch?v=8bE_PBRriyU)
+- [Все о Nodejs от Яндекс](https://www.youtube.com/watch?v=qZ5xzkEdkhg)
+
+#### Express
+
+- [Crash course Traversy Media](https://www.youtube.com/watch?v=L72fhGm1tfE)
 
 
+#### Koa
 
-## Express
+#### ORM и работа с БД с помощью JS
 
-
-
-## Koa
-
-
+- https://typeorm.io/
+- https://www.prisma.io/
+- https://sequelize.org/
 
 <br>
 
@@ -357,6 +381,8 @@ Figma • Zeplin • Avocode
 
 ## Книги
 
+- Таненбаум Э. "Компьютерные сети" 
+- Таненбаум Э. С., Бос Х. "Современные операционные системы"
 
 
 <br>
@@ -369,15 +395,29 @@ Figma • Zeplin • Avocode
 
 <div align="center"><h1>Проектирование</h1></div><br>
 
+## Паттерны и шаблоны проектирования 
+
+- https://refactoring.guru/ru/design-patterns/catalog
+
+
+## Основные принципы 
+
+- [SOLID](https://habr.com/ru/company/mailru/blog/412699/)
+- [KISS](https://web-creator.ru/articles/kiss)
+- [DRY](https://web-creator.ru/articles/dry)
 
 
 ## Функциональное программирование
 
+### Посты про ФП 
 
+- https://habr.com/ru/post/142351/
+- https://tproger.ru/translations/functional-programming-concepts/
 
 ## Объектно-ориентированное программирование
 
-
+- https://habr.com/ru/post/463125/
+- https://tproger.ru/experts/oop-in-simple-words/
 
 ## Ресурсы
 
